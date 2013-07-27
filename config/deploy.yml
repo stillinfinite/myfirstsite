@@ -13,3 +13,8 @@ production:
   email: john@doe.net
   password: apassword
   # api_key: <your api key here>
+
+hosting:
+  host: tpitest.locomotivehosting.com
+  api_key: d0b55e1d8c20fc51a4b1dc2bbf24c84e62ad4392
+  ssl: true
